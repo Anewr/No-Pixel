@@ -3,6 +3,9 @@
 ## Description
 This is a GUI application that allows for the conversion of photos from JPEG and PNG file formats. It is written in Python and uses the Tkinter library for the graphical user interface portion. 
 It utilizes the following libraries 
+* rembg --> importing "remove"
+* tkinter --> importing as "tk"
+* tkinter --> importing "ttk", "filedialog", "messagebox"
 
 ### Screenshot
 ![no-pixel](https://github.com/Anewr/No-Pixel/assets/43296171/ae0dbe0a-58b2-4a22-b36d-ae8ca819f69b)
